@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myntra/static/css/main.8a660215.css",
-    "main.js": "/myntra/static/js/main.c43767b6.js",
+    "main.js": "/myntra/static/js/main.bb7ab38a.js",
     "static/media/4.jpg": "/myntra/static/media/4.09f6d68eb75b469c1855.jpg",
     "static/media/9.jpg": "/myntra/static/media/9.09568e051c671649c530.jpg",
     "static/media/2.jpg": "/myntra/static/media/2.beab55738ac9318c10f2.jpg",
@@ -26,10 +26,10 @@
     "static/media/5.png": "/myntra/static/media/5.de0ad57c74b857b62d14.png",
     "index.html": "/myntra/index.html",
     "main.8a660215.css.map": "/myntra/static/css/main.8a660215.css.map",
-    "main.c43767b6.js.map": "/myntra/static/js/main.c43767b6.js.map"
+    "main.bb7ab38a.js.map": "/myntra/static/js/main.bb7ab38a.js.map"
   },
   "entrypoints": [
     "static/css/main.8a660215.css",
-    "static/js/main.c43767b6.js"
+    "static/js/main.bb7ab38a.js"
   ]
 }
